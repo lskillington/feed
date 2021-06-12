@@ -1,0 +1,12 @@
+{
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "[handlebars]": {
+    "editor.defaultFormatter": "mfeckies.handlebars-formatter"
+},
+"editor.minimap.enabled": false
+}
